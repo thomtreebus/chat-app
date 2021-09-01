@@ -1,4 +1,5 @@
 # ChatApp Application
 
-This application allows users to login using their Google or Facebook account. Once logged in, a room can be created and other users can be invited.
-Chat rooms allow users to send and receive messages.
+A realtime chat application with social authentication (Google and Facebook) and dedicated chat APIs/sockets.
+
+The app was built using JavaScript, React, Firebase, and Chat Engine (https://chatengine.io/). 
